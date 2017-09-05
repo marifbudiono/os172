@@ -1,0 +1,1 @@
+Pada lab week01 ini saya belajar bagaimana membuat direktori dan file di lokal server, lalu file tersebut di push ke dalam akun gitla, setelah itu saya membuat file dummy pada tiap-tiap file yang telah saya buat. Selain itu saya juga membuat file yang isinya alasan mengapa kita harus belajar OS, kemudian pada lab week01 ini juga diajarkan untuk membuat file di dalam file dummy.
