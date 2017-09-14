@@ -1,0 +1,6 @@
+w02-170914-18-DS-About: Asdos Session (Ka Hafizha)
+w02-170914-16-LR-About: Class Session
+w02-170913-22-PS-About: Lab Practice Session
+w02-170913-18-DS-About: Asdos Session (Ka Hafizha)
+w02-170913-16-PS-About: Lab Practice Session
+w02-170912-16-LR-About: Class Session
