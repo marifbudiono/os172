@@ -1,0 +1,7 @@
+w06-171014-13-PS-About: Lab Practical Session
+w06-171012-16-LR-About: Class Session
+w06-171010-16-LR-About: Class Session
+w05-171005-16-LR-About: Class Session
+w05-171004-21-PS-About: Lab Practical Session
+w05-171004-16-PS-About: Lab Practical Session
+w05-171003-16-LR-About: Class Session
