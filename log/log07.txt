@@ -1,0 +1,7 @@
+w07-171111-01-PS-About: Lab Practical Session
+w07-171111-00-PS-About: Lab Practical Session
+w07-171110-21-PS-About: Lab Practical Session
+w07-171110-16-LR-About: Class Session
+w07-171109-22-PS-About: Lab Practical Session
+w07-171108-21-PS-About: Lab Practical Session
+w07-171108-16-LR-About: Class Session
