@@ -1,0 +1,9 @@
+w09-171202-18-PS-About: Lab Practical Session
+w09-171202-21-PS-About: Lab Practical Session
+w09-171201-22-PS-About: Lab Practical Session
+w09-171130-16-LR-About: Class Session
+w09-171129-21-PS-About: Lab Practical Session
+w09-171128-16-LR-About: Class Session
+w09-171124-22-PS-About: Lab Practical Session
+w09-171123-16-LR-About: Class Session
+w09-171121-16-LR-About: Class Session
